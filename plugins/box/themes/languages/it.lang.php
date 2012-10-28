@@ -13,7 +13,7 @@
             'Delete template: :name' => 'Elimina modello: :name',
             'Delete chunk: :name' => 'Elimina chunk: :name',
             'Delete styles: :name' => 'Elimina stili: :name',
-            'Templates' => 'Templates',
+            'Templates' => 'Modelli',
             'Clone' => 'Duplica',
             'Edit' => 'Modifica',
             'Delete' => 'Elimina',
