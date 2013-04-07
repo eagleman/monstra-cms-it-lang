@@ -1,8 +1,8 @@
 ## Italian language for Monstra CMS ##
 
-Monstra - Fast and small content management system written in PHP!
+Monstra - Piccolo e veloce content management system scritto in PHP!
 
-Site: http://monstra.org   
+Sito web: http://monstra.org   
 Forum: http://forum.monstra.org
 
 Copyright © 2012 Stanislav Ulver / stanislavsky [stanislav.ulver@gmail.com]
